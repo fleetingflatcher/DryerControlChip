@@ -23,12 +23,6 @@ parameter DIAL_STD = 4'h1;
 parameter DIAL_TWL = 4'h2;
 parameter DIAL_DEL = 4'h4;
 parameter DIAL_TCH = 4'h8;
-parameter DIAL_15 = 4'hA;
-parameter DIAL_30 = 4'hB;
-parameter DIAL_45 = 4'hC;
-parameter DIAL_60 = 4'hD;
-parameter DIAL_75 = 4'hE;
-parameter DIAL_90 = 4'hF;
 
 	//Internal State Definitions
 parameter IDLE = 8'h00;
